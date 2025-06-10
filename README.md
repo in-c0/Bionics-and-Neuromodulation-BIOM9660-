@@ -21,3 +21,10 @@ i've been tracking only the latter part so far (which falls under CS) but the fo
 
 [BIOM9660 2025_Week1_Intro to Medical Bionics.pdf](https://github.com/user-attachments/files/20560667/BIOM9660.2025_Week1_Intro.to.Medical.Bionics.pdf)
 [BIOM9660 2025_Week1_Intro to BIOM9660.pdf](https://github.com/user-attachments/files/20560664/BIOM9660.2025_Week1_Intro.to.BIOM9660.pdf)
+
+
+
+## Week 2
+[Cochlear Systems Engineering_SConnolly_2024 (1).pdf](https://github.com/user-attachments/files/20666012/Cochlear.Systems.Engineering_SConnolly_2024.1.pdf)
+
+
